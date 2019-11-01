@@ -1,0 +1,7 @@
+{
+  "name": "bcsaude",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
